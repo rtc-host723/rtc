@@ -9,4 +9,5 @@ before setting toggle make sure file upload finishes and is committed first!
 4 nuke (fork bomb)\
 5 restart pc\
 6 shutdown pc\
+7 create bunch of random folders on target desktop\
 999 uninstall
