@@ -1,2 +1,10 @@
 start calc
-exit
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
