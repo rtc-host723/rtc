@@ -1,4 +1,7 @@
 # rtc
+
+before setting toggle make sure file upload finishes and is committed first!
+
 0 off\
 1 vine boom\
 2 audio upload\
