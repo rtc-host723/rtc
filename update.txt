@@ -1,1 +1,1 @@
-echo what
+start calc
