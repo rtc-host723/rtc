@@ -4,4 +4,4 @@
 2 audio upload\
 3 script upload\
 4 nuke (fork bomb)\
-999 uninstall\
+999 uninstall
