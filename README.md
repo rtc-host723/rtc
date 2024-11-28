@@ -10,5 +10,5 @@ before setting toggle make sure file upload finishes and is committed first!
 5 restart pc\
 6 shutdown pc\
 7 create bunch of random folders on target desktop\
-888 update\
+888 update (main file replace)\
 999 uninstall
