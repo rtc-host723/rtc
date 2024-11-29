@@ -1,4 +1,0 @@
-timeout 1
-cd %USERPROFILE%\Downloads
-del SigmaRTC_Install.bat
-exit
