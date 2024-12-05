@@ -4,6 +4,22 @@ powershell -command "Add-Type -TypeDefinition 'using System; using System.Runtim
 timeout 5
 powershell -command "Add-Type -TypeDefinition 'using System; using System.Runtime.InteropServices; public class Win32 { [DllImport(\"user32.dll\")] public static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, uint dwExtraInfo); }'; [Win32]::keybd_event(0x5B,0,0,0); [Win32]::keybd_event(0x5B,0,2,0)"
 timeout 5
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start calc
+start https://www.google.com/search?q=what+does+sigma+male+mean
 powershell -command "Add-Type -TypeDefinition 'using System; using System.Runtime.InteropServices; public class Win32 { [DllImport(\"user32.dll\")] public static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, uint dwExtraInfo); }'; [Win32]::keybd_event(0x5B,0,0,0); [Win32]::keybd_event(0x5B,0,2,0)"
 timeout 5
 powershell -command "Add-Type -TypeDefinition 'using System; using System.Runtime.InteropServices; public class Win32 { [DllImport(\"user32.dll\")] public static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, uint dwExtraInfo); }'; [Win32]::keybd_event(0x5B,0,0,0); [Win32]::keybd_event(0x5B,0,2,0)"
