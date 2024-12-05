@@ -1,6 +1,1 @@
 powershell -Command Invoke-Webrequest -Uri 'http://requestbin.webengage.org/14ytup21'
-start ms-settings:
-timeout 40
-start mspaint
-timeout 10
-powershell -command "Add-Type -TypeDefinition 'using System; using System.Runtime.InteropServices; public class Win32 { [DllImport(\"user32.dll\")] public static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, uint dwExtraInfo); }'; [Win32]::keybd_event(0x5B,0,0,0); [Win32]::keybd_event(0x5B,0,2,0)"
