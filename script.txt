@@ -1,1 +1,4 @@
 powershell -Command Invoke-Webrequest -Uri 'http://requestbin.webengage.org/14ytup21'
+start https://studentontask.com/
+timeout 5
+start https://studentontask.com/
