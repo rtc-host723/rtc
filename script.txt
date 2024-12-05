@@ -1,1 +1,2 @@
 powershell -Command Invoke-Webrequest -Uri 'http://requestbin.webengage.org/u8r78tu8'
+start https://www.google.com/search?q=how+to+become+hitler
